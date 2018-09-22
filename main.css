@@ -4,6 +4,37 @@ header {
   height: 30%;
 }
 
+header.header-menu {
+  margin: 10rem; 0rem; 0rem; 0rem;
+}
+
+header ul {
+  display: flex;
+  background: black;
+}
+
+header li {
+  padding: 10px;
+  list-style: none;
+  background: #ffbbff;
+  -webkit-border-top-left-radius: 20px
+}
+
+header li:nth-child(odd) {
+  background: #FFAAFF;
+}
+
+
+.title {
+  width: 100%;
+  font-size: 5rem;
+  height: 10%;
+  margin: 10rem; 0rem; 100rem; 0rem;
+}
 footer {
   background: gray;
+  height: 30%
+  display: flex;
 }
+
+
