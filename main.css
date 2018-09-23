@@ -6,6 +6,10 @@ header {
 
 header.header-menu {
   margin: 10rem; 0rem; 0rem; 0rem;
+img {
+  max-width: 25px;
+  height: auto;
+  vertical-align: middle;
 }
 
 header ul {
