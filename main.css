@@ -37,4 +37,11 @@ footer {
   display: flex;
 }
 
+.contacts ul {
+  list-style: none;
+  display: flex;
+}
 
+.contacts li {
+  padding: 0px 10px 0px;
+}
